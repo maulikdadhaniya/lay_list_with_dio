@@ -1,6 +1,6 @@
 # Lazy List with Dio
 
-List with Public API using Dio library in flutter
+Lazy List with Public API using Dio library in flutter
 
 ## Output of this Project
 
